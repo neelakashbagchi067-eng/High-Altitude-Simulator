@@ -1,0 +1,7 @@
+Parameter,Sea_Level_0m,Ladakh_4500m
+Atmospheric Pressure (kPa),101.33,57.83334298561919
+Air Density (kg/m³),1.225,0.8286029435857126
+Dynamic Viscosity (Pa·s),1.78e-05,1.55e-05
+Air Thermal Conductivity (W/m·K),0.0242,0.0218
+Forced Convective h (W/m²K),20.498032187690217,15.486134005264603
+Steady-State Enclosure Temp (°C),-8.054980256704937,-2.9736263385019583
