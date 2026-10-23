@@ -128,7 +128,7 @@ def system_energy_balance(t, T_array, Q_gen, A_surf, m_sys, cp_sys, z, T_amb_C, 
 # ==============================================================================
 if __name__ == "__main__":
     print("=================================================================")
-    print(" MEMBER 1: HIGH-ALTITUDE THERMAL & BAROMETRIC MODELING SYSTEM ")
+    print(" HIGH-ALTITUDE THERMAL & BAROMETRIC MODELING SYSTEM ")
     print("=================================================================")
 
     # 1. Compute Altitude Curves
